@@ -1,0 +1,5 @@
+/Users/esterandersson/Documents/C# KURS/Labb2/Labb2/obj/Debug/Labb2.csprojAssemblyReference.cache
+/Users/esterandersson/Documents/C# KURS/Labb2/Labb2/bin/Debug/Labb2.exe
+/Users/esterandersson/Documents/C# KURS/Labb2/Labb2/bin/Debug/Labb2.pdb
+/Users/esterandersson/Documents/C# KURS/Labb2/Labb2/obj/Debug/Labb2.exe
+/Users/esterandersson/Documents/C# KURS/Labb2/Labb2/obj/Debug/Labb2.pdb
